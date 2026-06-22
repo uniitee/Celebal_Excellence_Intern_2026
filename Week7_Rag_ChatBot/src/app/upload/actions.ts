@@ -1,4 +1,3 @@
-// src/app/upload/actions.ts
 "use server";
 
 import pdf from "pdf-parse";

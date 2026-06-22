@@ -1,4 +1,3 @@
-// src/lib/search.ts
 import { cosineDistance, desc, gt, sql } from "drizzle-orm";
 import { db } from "./db-config";
 import { documents } from "./db-schema";

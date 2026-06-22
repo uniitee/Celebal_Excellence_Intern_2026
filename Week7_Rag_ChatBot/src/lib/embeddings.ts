@@ -1,4 +1,3 @@
-// src/lib/embeddings.ts
 import { embed, embedMany } from "ai";
 import { openai } from "@ai-sdk/openai";
 
