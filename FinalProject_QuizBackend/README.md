@@ -56,4 +56,9 @@ POST /questions/
 }
 ```
 
+## Demo Walkthrough
+<!-- video display -->
+<video src="./public/quiz_backend.mp4" controls></video>
+
+
 Made with <3 by [@UniiTee](https://github.com/uniitee)
